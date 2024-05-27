@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "54EGPqkWNJchjTstBpTbBtOiK4tEnaR69r9G/iCgISs=",
+  "Hash": "Jy6nyBcxPD9OOqvvsDkQTG7tgqqqUexD1OpHOA9j6R0=",
   "Source": "EchoBot",
   "BasePath": "_content/EchoBot",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EchoBot/wwwroot",
       "Source": "EchoBot",
-      "ContentRoot": "/Users/igorlaminsi/Documents/Projet RFID Rep 5/MonChatbot/MonChatBot/wwwroot/",
+      "ContentRoot": "/Users/igorlaminsi/Downloads/MonChatBot_updated/wwwroot/",
       "BasePath": "_content/EchoBot",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/igorlaminsi/Documents/Projet RFID Rep 5/MonChatbot/MonChatBot/wwwroot/default.html",
+      "Identity": "/Users/igorlaminsi/Downloads/MonChatBot_updated/wwwroot/default.html",
       "SourceId": "EchoBot",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/igorlaminsi/Documents/Projet RFID Rep 5/MonChatbot/MonChatBot/wwwroot/",
+      "ContentRoot": "/Users/igorlaminsi/Downloads/MonChatBot_updated/wwwroot/",
       "BasePath": "_content/EchoBot",
       "RelativePath": "default.html",
       "AssetKind": "All",

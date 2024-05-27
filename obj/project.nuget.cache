@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l8ZEnIJEiQM=",
+  "dgSpecHash": "0MXeby8He04=",
   "success": true,
-  "projectFilePath": "/Users/igorlaminsi/Documents/Projet RFID Rep 5/MonChatbot/MonChatBot/EchoBot.csproj",
+  "projectFilePath": "/Users/igorlaminsi/Downloads/MonChatBot_updated/EchoBot.csproj",
   "expectedPackageFiles": [
     "/Users/igorlaminsi/.nuget/packages/adaptivecards/1.2.3/adaptivecards.1.2.3.nupkg.sha512",
     "/Users/igorlaminsi/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.1/microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",

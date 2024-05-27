@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EchoBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a968f217e9ed98a9bf6c4b49a2344d0fb2555756")]
 [assembly: System.Reflection.AssemblyProductAttribute("EchoBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EchoBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

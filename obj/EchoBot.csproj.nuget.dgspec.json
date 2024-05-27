@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/igorlaminsi/Documents/Projet RFID Rep 5/MonChatbot/MonChatBot/EchoBot.csproj": {}
+    "/Users/igorlaminsi/Downloads/MonChatBot_updated/EchoBot.csproj": {}
   },
   "projects": {
-    "/Users/igorlaminsi/Documents/Projet RFID Rep 5/MonChatbot/MonChatBot/EchoBot.csproj": {
+    "/Users/igorlaminsi/Downloads/MonChatBot_updated/EchoBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/igorlaminsi/Documents/Projet RFID Rep 5/MonChatbot/MonChatBot/EchoBot.csproj",
+        "projectUniqueName": "/Users/igorlaminsi/Downloads/MonChatBot_updated/EchoBot.csproj",
         "projectName": "EchoBot",
-        "projectPath": "/Users/igorlaminsi/Documents/Projet RFID Rep 5/MonChatbot/MonChatBot/EchoBot.csproj",
+        "projectPath": "/Users/igorlaminsi/Downloads/MonChatBot_updated/EchoBot.csproj",
         "packagesPath": "/Users/igorlaminsi/.nuget/packages/",
-        "outputPath": "/Users/igorlaminsi/Documents/Projet RFID Rep 5/MonChatbot/MonChatBot/obj/",
+        "outputPath": "/Users/igorlaminsi/Downloads/MonChatBot_updated/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/igorlaminsi/.nuget/NuGet/NuGet.Config"
